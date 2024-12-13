@@ -20,7 +20,9 @@
  
 <div> 
   <a href="https://mailto:klausmachado1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raphael-machado-de-farias-149964207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/raphael-machado-de-farias-149964207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/qr/AIKP6LV7RS55L1" target="_blank"><img height="30" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Whatsapp.svg" target="_blank"></a>
+  
  
   ![Snake animation](https://github.com/KlausMachado/KlausMachado/blob/output/github-contribution-grid-snake.svg)
 
