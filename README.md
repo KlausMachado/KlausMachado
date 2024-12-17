@@ -23,7 +23,9 @@
  
  <br>
  
-  ### Contato
+  <div align="center"> 
+    <h2>Contatos</h2>  
+  </div>
  
 <div align="center"> 
   <a href="https://mailto:klausmachado1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
