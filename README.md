@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá, eu sou o Rapha! 🖖</h1>
 
-  <p>Sou estudante de Administração e Análise e Desenvolvimento de Sistemas, sempre buscando aprender e evoluir na área de       tecnologia e gestão.
+  <p>Sou desenvolvedor web e estudante Análise e Desenvolvimento de Sistemas, sempre buscando aprender e evoluir na área de       tecnologia e gestão.
   Tenho formação pelo DevQuest, onde adquiri conhecimentos em HTML, CSS, JavaScript e React.js. Além disso, hoje estudo          Python, para ampliar minha experiência em desenvolvimento e automação. Atualmente trabalho como Assistente de Campo Jr na      Spacecom Monitoramento.
   Sou uma pessoa calma, curiosa e criativa. Gosto de explorar novos conhecimentos e valorizo as experiências compartilhadas      pelas pessoas ao meu redor. Estou sempre em busca de desafios que me permitam crescer profissional e pessoalmente.
   </p>
